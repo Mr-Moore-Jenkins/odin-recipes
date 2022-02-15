@@ -6,3 +6,8 @@ button {
 .link {
     color: rgb(16, 241, 28)
 }
+
+.chef {
+    width: 400px;
+    height: auto;
+}
